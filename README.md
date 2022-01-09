@@ -16,9 +16,9 @@
 
 <div style="height: 7px" > </div>
 
-- HTML 5
+- HTML 
 - SASS
-- CSS 3
+- CSS 
 
 #
 
