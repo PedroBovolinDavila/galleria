@@ -24,4 +24,4 @@
 
 ## Author
 
-Feito por [Pedro Bovolin Davila](https://pedrodavila.netlify.app)
+Feito de 💜 por [Pedro Bovolin Davila](https://pedrodavila.netlify.app)
